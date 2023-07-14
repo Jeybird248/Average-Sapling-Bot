@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A Discord bot that integrates with the YouTube API to provide various functionalities related to YouTube channels and videos.
-Inspiration goes to [saplinganon](https://github.com/saplinganon)'s [imissfauna.com](https://imissfauna.com/)
+Credit for inspiration goes to [saplinganon](https://github.com/saplinganon)'s [imissfauna.com](https://imissfauna.com/).
 
 ## Features
 
@@ -51,3 +51,17 @@ python bot.py
 - Use the command !streamtime [channel_name] to check the time since the last stream of the specified YouTube channel.
 - Use the command !stats [channel_name] to retrieve statistics for the specified YouTube channel, including top 3 videos.
 - Use the command !help to display a list of available commands.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Contributing
+
+Contributions are welcome! Please feel free to open a pull request or submit an issue if you find any bugs or have any suggestions.
+
+## Acknowledgements
+
+- [Discord.py](https://github.com/Rapptz/discord.py)
+- [Google API Client Library](https://github.com/googleapis/google-api-python-client)
+- [YouTube Data API](https://developers.google.com/youtube)
