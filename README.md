@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
 A Discord bot that integrates with the YouTube API to provide various functionalities related to YouTube channels and videos.
-Inspiration goes to saplinganon
+Inspiration goes to [saplinganon](https://github.com/saplinganon)'s [imissfauna.com](https://imissfauna.com/)
 
 ## Features
 
@@ -46,7 +46,7 @@ git clone https://github.com/your-username/your-repo-name.git
 python bot.py
 ```
 
-##Usage
+## Usage
 - Use the command !reps [channel_name] to display a random video from the specified YouTube channel.
 - Use the command !streamtime [channel_name] to check the time since the last stream of the specified YouTube channel.
 - Use the command !stats [channel_name] to retrieve statistics for the specified YouTube channel, including top 3 videos.
